@@ -1,0 +1,744 @@
+population:500
+gene length:20
+mut rate:0.5
+mut_step:0.005
+generations:150
+best performing ind:34.98611462663277
+average performance:35.21203382859581
+########################################
+population:500
+gene length:20
+mut rate:0.5
+mut_step:0.005
+generations:150
+best performing ind:42.29303042968937
+average performance:42.6605409118855
+########################################
+population:500
+gene length:20
+mut rate:0.5
+mut_step:0.05
+generations:150
+best performing ind:49.16004297420839
+average performance:83.19638411176375
+########################################
+population:500
+gene length:20
+mut rate:0.5
+mut_step:0.005
+generations:150
+best performing ind:65.99960692696868
+average performance:66.37944127235338
+########################################
+population:500
+gene length:20
+mut rate:0.5
+mut_step:0.0005
+generations:150
+best performing ind:58.36954922162164
+average performance:3221.188834901965
+########################################
+population:500
+gene length:20
+mut rate:1
+mut_step:0.5
+generations:700
+best performing ind:12.050136695056388
+average performance:583083.1749370488
+########################################
+population:500
+gene length:20
+mut rate:1
+mut_step:0.5
+generations:700
+best performing ind:13.428299406828216
+average performance:594178.1011860017
+########################################
+population:500
+gene length:20
+mut rate:1
+mut_step:0.5
+generations:150
+best performing ind:44.47951548435578
+average performance:528671.3594154934
+########################################
+population:500
+gene length:20
+mut rate:1
+mut_step:0.5
+generations:150
+best performing ind:32.530547788000774
+average performance:1032349.9487700631
+########################################
+population:500
+gene length:20
+mut rate:1
+mut_step:0.5
+generations:150
+best performing ind:16.30598031801708
+average performance:524927.1845434618
+########################################
+population:500
+gene length:20
+mut rate:1
+mut_step:0.5
+generations:700
+best performing ind:15.400185596704938
+average performance:526465.1099831418
+########################################
+population:500
+gene length:20
+mut rate:1
+mut_step:0.5
+generations:700
+best performing ind:22.098132068398463
+average performance:519741.91246084275
+########################################
+population:500
+gene length:20
+mut rate:1
+mut_step:0.5
+generations:100
+best performing ind:111.24658611431069
+average performance:1379713.9094163657
+########################################
+population:500
+gene length:20
+mut rate:1
+mut_step:0.5
+generations:100
+best performing ind:17249.75415642159
+average performance:98938.52446046296
+########################################
+population:500
+gene length:20
+mut rate:1
+mut_step:0.5
+generations:100
+best performing ind:429.2372204469385
+average performance:15727.599910056553
+########################################
+population:500
+gene length:20
+mut rate:1
+mut_step:0.5
+generations:100
+best performing ind:68.85166740314655
+average performance:981685.986573214
+########################################
+population:500
+gene length:20
+mut rate:1
+mut_step:0.5
+generations:100
+best performing ind:556.8000476670628
+average performance:16852.23040801792
+########################################
+population:500
+gene length:20
+mut rate:1
+mut_step:0.5
+generations:700
+best performing ind:277.3423152171657
+average performance:15814.1453921353
+########################################
+population:500
+gene length:20
+mut rate:1
+mut_step:7
+generations:700
+best performing ind:524161.2808620001
+average performance:40207350.860214956
+########################################
+population:500
+gene length:20
+mut rate:1
+mut_step:7
+generations:700
+best performing ind:284217.81812619977
+average performance:36337728.62524765
+########################################
+population:500
+gene length:20
+mut rate:1
+mut_step:7
+generations:700
+best performing ind:815842.8492690059
+average performance:36587119.93029382
+########################################
+population:500
+gene length:20
+mut rate:1
+mut_step:4
+generations:700
+best performing ind:111546.99304250868
+average performance:12816306.884021703
+########################################
+population:500
+gene length:20
+mut rate:1
+mut_step:4
+generations:700
+best performing ind:144219.2225517744
+average performance:14776869.145938756
+########################################
+population:500
+gene length:20
+mut rate:1
+mut_step:4
+generations:700
+best performing ind:149190.69333630108
+average performance:14798244.980980266
+########################################
+population:500
+gene length:20
+mut rate:1
+mut_step:2
+generations:700
+best performing ind:16426.83691286882
+average performance:2778901.251101351
+########################################
+population:300
+gene length:20
+mut rate:1
+mut_step:1
+generations:400
+best performing ind:2166.210789601317
+average performance:227284.49683700362
+########################################
+population:300
+gene length:20
+mut rate:1
+mut_step:0.5
+generations:400
+best performing ind:250.04374419983588
+average performance:16063.804663591241
+########################################
+population:300
+gene length:20
+mut rate:1
+mut_step:0.05
+generations:400
+best performing ind:0.4684958553448503
+average performance:4.160692625991516
+########################################
+population:500
+gene length:20
+mut rate:0.5
+mut_step:7
+generations:700
+best performing ind:244818.99715645952
+average performance:20471881.494496014
+########################################
+population:500
+gene length:20
+mut rate:0.05
+mut_step:7
+generations:700
+best performing ind:42.139169248911955
+average performance:941500.4621495648
+########################################
+population:500
+gene length:20
+mut rate:0.5
+mut_step:4
+generations:700
+best performing ind:37611.21472075006
+average performance:6610567.980426857
+########################################
+population:500
+gene length:20
+mut rate:0.5
+mut_step:2
+generations:700
+best performing ind:7266.125801508766
+average performance:876337.9872800458
+########################################
+population:500
+gene length:20
+mut rate:0.05
+mut_step:4
+generations:700
+best performing ind:11.488890256870748
+average performance:129209.5861804595
+########################################
+population:500
+gene length:20
+mut rate:0.05
+mut_step:2
+generations:700
+best performing ind:1.3418343319409862
+average performance:8447.652477323007
+########################################
+population:500
+gene length:20
+mut rate:1
+mut_step:1
+generations:700
+best performing ind:1963.4012818004626
+average performance:205447.83805977734
+########################################
+population:500
+gene length:20
+mut rate:1
+mut_step:1
+generations:700
+best performing ind:1765.1667880183415
+average performance:213732.15483054912
+########################################
+population:500
+gene length:20
+mut rate:1
+mut_step:0.5
+generations:700
+best performing ind:145.42872735926983
+average performance:15276.980286549206
+########################################
+population:300
+gene length:20
+mut rate:1
+mut_step:0.5
+generations:400
+best performing ind:158.501461455563
+average performance:13798.738771488768
+########################################
+population:300
+gene length:20
+mut rate:1
+mut_step:0.5
+generations:400
+best performing ind:104.27957073315731
+average performance:12063.388736308798
+########################################
+population:300
+gene length:20
+mut rate:1
+mut_step:0.05
+generations:400
+best performing ind:0.2982346199174514
+average performance:3.7630444054013172
+########################################
+population:300
+gene length:20
+mut rate:1
+mut_step:0.05
+generations:400
+best performing ind:0.37288720870262865
+average performance:3.9421227333627713
+########################################
+population:300
+gene length:20
+mut rate:1
+mut_step:0.05
+generations:700
+best performing ind:0.36819076805448603
+average performance:4.174380532143029
+########################################
+population:30
+gene length:20
+mut rate:2
+mut_step:0.05
+generations:150
+best performing ind:106170.22408649996
+average performance:112085.55552683525
+########################################
+population:30
+gene length:20
+mut rate:1
+mut_step:0.05
+generations:150
+best performing ind:2256.409935460906
+average performance:2671.9345108360094
+########################################
+population:30
+gene length:20
+mut rate:0.5
+mut_step:0.05
+generations:150
+best performing ind:111686.11900722436
+average performance:118390.42152459703
+########################################
+population:30
+gene length:20
+mut rate:0.5
+mut_step:0.5
+generations:150
+best performing ind:151.3939581287205
+average performance:3018.916823479762
+########################################
+population:30
+gene length:20
+mut rate:0.5
+mut_step:0.8
+generations:150
+best performing ind:202.5473919580934
+average performance:9405.427439085188
+########################################
+population:30
+gene length:20
+mut rate:1
+mut_step:0.8
+generations:300
+best performing ind:1794.9768503828386
+average performance:52545.51992971138
+########################################
+population:300
+gene length:20
+mut rate:1
+mut_step:0.05
+generations:300
+best performing ind:0.46324859749115077
+average performance:4.083908025477649
+########################################
+population:300
+gene length:20
+mut rate:1
+mut_step:0.05
+generations:200
+best performing ind:1.623793306929814
+average performance:5.259907474148312
+########################################
+population:30
+gene length:20
+mut rate:1
+mut_step:0.05
+generations:200
+best performing ind:36530.92017994041
+average performance:39247.302695295
+########################################
+population:30
+gene length:20
+mut rate:0.6
+mut_step:0.05
+generations:200
+best performing ind:398832.00283311727
+average performance:413605.20112509315
+########################################
+population:30
+gene length:20
+mut rate:2
+mut_step:0.5
+generations:200
+best performing ind:228.10681641719265
+average performance:5504.347540337845
+########################################
+population:30
+gene length:20
+mut rate:2
+mut_step:0.7
+generations:200
+best performing ind:371.8957346284095
+average performance:19298.04394527745
+########################################
+population:30
+gene length:20
+mut rate:2
+mut_step:0.6
+generations:200
+best performing ind:1209.3270166094267
+average performance:20409.095835278495
+########################################
+population:30
+gene length:20
+mut rate:3
+mut_step:0.5
+generations:200
+best performing ind:248.8447345981706
+average performance:6462.8365879642915
+########################################
+population:30
+gene length:20
+mut rate:4
+mut_step:0.5
+generations:200
+best performing ind:263.81416560440266
+average performance:6801.316121646282
+########################################
+population:30
+gene length:20
+mut rate:3.5
+mut_step:0.5
+generations:200
+best performing ind:356.0670374597085
+average performance:8913.58434126308
+########################################
+population:30
+gene length:20
+mut rate:3
+mut_step:2
+generations:200
+best performing ind:69047.97643209467
+average performance:2476189.6254228796
+########################################
+population:30
+gene length:20
+mut rate:3
+mut_step:0.06
+generations:200
+best performing ind:757.4604678369108
+average performance:829.4268590520277
+########################################
+population:30
+gene length:20
+mut rate:3
+mut_step:0.07
+generations:200
+best performing ind:32886.50325664097
+average performance:36850.724500841476
+########################################
+population:30
+gene length:20
+mut rate:3
+mut_step:0.065
+generations:200
+best performing ind:3405.4959152919932
+average performance:3851.018227638449
+########################################
+population:30
+gene length:20
+mut rate:3
+mut_step:0.06
+generations:200
+best performing ind:4687.806757064531
+average performance:5293.221951046052
+########################################
+population:30
+gene length:20
+mut rate:3
+mut_step:0.06
+generations:200
+best performing ind:52223.36305869034
+average performance:56277.50073574574
+########################################
+population:30
+gene length:20
+mut rate:3
+mut_step:0.05
+generations:200
+best performing ind:43861.02509593317
+average performance:46419.47055792696
+########################################
+population:50
+gene length:20
+mut rate:3
+mut_step:0.05
+generations:200
+best performing ind:45716.58612477801
+average performance:49374.82335944292
+########################################
+population:70
+gene length:20
+mut rate:3
+mut_step:0.05
+generations:250
+best performing ind:232.76795735509899
+average performance:251.14160892068367
+########################################
+population:70
+gene length:20
+mut rate:3
+mut_step:0.05
+generations:300
+best performing ind:12.121372517279072
+average performance:16.489658806607654
+########################################
+population:70
+gene length:20
+mut rate:3
+mut_step:0.05
+generations:300
+best performing ind:4.184596849261721
+average performance:7.28753874381786
+########################################
+population:70
+gene length:20
+mut rate:3
+mut_step:0.05
+generations:300
+best performing ind:20.101041073949787
+average performance:24.979431889102155
+########################################
+population:70
+gene length:20
+mut rate:3
+mut_step:0.05
+generations:300
+best performing ind:3.2874961055718206
+average performance:6.982325891825686
+########################################
+population:70
+gene length:20
+mut rate:3
+mut_step:0.05
+generations:300
+best performing ind:2.452466106349393
+average performance:5.962603370492136
+########################################
+population:70
+gene length:20
+mut rate:1
+mut_step:0.5
+generations:300
+best performing ind:450.91850288668013
+average performance:13222.629532239565
+########################################
+population:70
+gene length:20
+mut rate:3
+mut_step:0.5
+generations:300
+best performing ind:103.37328251070474
+average performance:10177.429989911436
+########################################
+population:70
+gene length:20
+mut rate:5
+mut_step:0.5
+generations:300
+best performing ind:113.89599294271657
+average performance:11061.917077441261
+########################################
+population:70
+gene length:20
+mut rate:1
+mut_step:0.05
+generations:300
+best performing ind:1747.291796452377
+average performance:1893.1054637526806
+########################################
+population:70
+gene length:20
+mut rate:1
+mut_step:0.005
+generations:300
+best performing ind:10185.286830334957
+average performance:10453.904359821987
+########################################
+population:70
+gene length:20
+mut rate:3
+mut_step:0.05
+generations:300
+best performing ind:73.05768479028818
+average performance:82.0064449206606
+########################################
+population:70
+gene length:20
+mut rate:3
+mut_step:0.005
+generations:300
+best performing ind:284191.3568954922
+average performance:286347.6684267091
+########################################
+population:30
+gene length:20
+mut rate:1
+mut_step:0.05
+generations:200
+best performing ind:26790.61928701063
+average performance:29013.56594642459
+########################################
+population:30
+gene length:20
+mut rate:0.6
+mut_step:0.05
+generations:200
+best performing ind:232185.22960592067
+average performance:240785.06436574564
+########################################
+population:30
+gene length:20
+mut rate:2
+mut_step:0.05
+generations:200
+best performing ind:49355.03511055521
+average performance:53851.806871755914
+########################################
+population:30
+gene length:20
+mut rate:3
+mut_step:0.5
+generations:200
+best performing ind:416.66527868754264
+average performance:12204.778776782825
+########################################
+population:30
+gene length:20
+mut rate:3
+mut_step:0.05
+generations:200
+best performing ind:18520.702936761663
+average performance:20589.616222109566
+########################################
+population:70
+gene length:20
+mut rate:3
+mut_step:0.05
+generations:300
+best performing ind:22.178405778984313
+average performance:28.29872100100948
+########################################
+population:70
+gene length:20
+mut rate:3
+mut_step:0.5
+generations:300
+best performing ind:380.3823258282463
+average performance:13659.598315801499
+########################################
+population:70
+gene length:20
+mut rate:3
+mut_step:0.05
+generations:300
+best performing ind:6.4733500135362005
+average performance:10.208193410368658
+########################################
+population:70
+gene length:20
+mut rate:5
+mut_step:0.05
+generations:300
+best performing ind:18.29595507934722
+average performance:22.5518077983987
+########################################
+population:70
+gene length:20
+mut rate:5
+mut_step:0.005
+generations:300
+best performing ind:94270.7995317294
+average performance:95523.18431773389
+########################################
+population:70
+gene length:20
+mut rate:3
+mut_step:0.005
+generations:300
+best performing ind:112579.52135600834
+average performance:114106.94877416702
+########################################
+population:70
+gene length:20
+mut rate:1
+mut_step:0.005
+generations:300
+best performing ind:140588.81861753855
+average performance:143050.08428983606
+########################################
+population:70
+gene length:20
+mut rate:3
+mut_step:0.05
+generations:300
+best performing ind:0.7742545464591765
+average performance:3.2815816908117137
+########################################
+population:70
+gene length:20
+mut rate:3
+mut_step:0.05
+generations:300
+best performing ind:1.7030624261507161
+average performance:4.511918142658353
+########################################
